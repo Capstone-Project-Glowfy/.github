@@ -15,12 +15,6 @@ Welcome to Glowfy, a comprehensive skin health application designed to help you 
 6. (ML) M253D4KX1925 - Nurul Anzila Wahyana
 7. (ML) M004D4KX3373 - Dyas Amorita Radhwa Nashirah
 
-## Other Repositories
-
-#### ML - [Machine Learning Github Repository](https://github.com/dMorran/ML_Capstone/tree/main)
-
-#### CC - [Cloud Computing Github Repository](https://github.com/EMNYZER/Glowfy)
-
 ## Our LinkedIn
 | Nama       | LinkedIn     |
 |---------------|-------------|
