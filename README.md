@@ -1,4 +1,4 @@
-<img src="demo.png" alt="Glowfy">
+<img src="profile/demo.png" alt="Glowfy">
 
 # Glowfy - Unlock Your Skin’s Potential and Discover Your Glow
 (C241-PS064)
